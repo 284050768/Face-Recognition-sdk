@@ -1,0 +1,16 @@
+D:\src\FaceCard\FaceCard\bin\Release\FaceCard.exe.config
+D:\src\FaceCard\FaceCard\bin\Release\FaceCard.exe
+D:\src\FaceCard\FaceCard\bin\Release\FaceCard.pdb
+D:\src\FaceCard\FaceCard\obj\Release\FaceCard.Form1.resources
+D:\src\FaceCard\FaceCard\obj\Release\FaceCard.Properties.Resources.resources
+D:\src\FaceCard\FaceCard\obj\Release\FaceCard.csproj.GenerateResource.Cache
+D:\src\FaceCard\FaceCard\obj\Release\FaceCard.exe
+D:\src\FaceCard\FaceCard\obj\Release\FaceCard.pdb
+D:\FaceCard0908\FaceCard\bin\Release\FaceCard.exe.config
+D:\FaceCard0908\FaceCard\obj\Release\FaceCard.exe
+D:\FaceCard0908\FaceCard\obj\Release\FaceCard.pdb
+D:\FaceCard0908\FaceCard\bin\Release\FaceCard.exe
+D:\FaceCard0908\FaceCard\bin\Release\FaceCard.pdb
+D:\FaceCard0908\FaceCard\obj\Release\FaceCard.Form1.resources
+D:\FaceCard0908\FaceCard\obj\Release\FaceCard.Properties.Resources.resources
+D:\FaceCard0908\FaceCard\obj\Release\FaceCard.csproj.GenerateResource.Cache
